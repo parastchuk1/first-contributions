@@ -3,6 +3,7 @@
 - Steve Feivor
 - Song Ning Peng
 - Sethu Ram Kumar
+- Nicolás Maduro
 - Johnathon Wood (https://github.com/jaywood128)
 - Dhruv Sarawagi (https://github.com/optimusPrime999)
 - Sarah Guthals (https://github.com/sguthals)
